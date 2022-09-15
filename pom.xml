@@ -5,8 +5,8 @@
 		 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.mkyong.examples</groupId>
-    <artifactId>maven-unit-test</artifactId>
+    <groupId>com.devops.lnw</groupId>
+    <artifactId>first-maven-java-unit-test</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
 
