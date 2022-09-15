@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Preparation') {
             steps {
-                git changelog: false, credentialsId: 'gitlab-cred', poll: false, url: 'https://gitlab.com/gaurav-kuma/first-maven-java-project.git'
+                git changelog: false, poll: false, url: 'https://gitlab.com/vharitwal/first-maven-java-project.git'
             }
         }
         stage('Build') {
